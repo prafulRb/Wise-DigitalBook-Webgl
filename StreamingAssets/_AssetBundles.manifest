@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 809676176
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: 1e.m01.a01.scene
+      Dependencies: {}
+    Info_1:
+      Name: 1e.m01.a02.scene
+      Dependencies: {}
+    Info_2:
+      Name: 1e.m01.a07.scene
+      Dependencies: {}
+    Info_3:
+      Name: 1e.m01.a08.scene
+      Dependencies: {}
+    Info_4:
+      Name: 1e.m01.a09.scene
+      Dependencies: {}
+    Info_5:
+      Name: 1e.m01.a11.scene
+      Dependencies: {}
+    Info_6:
+      Name: 1e.m01.a12.scene
+      Dependencies: {}
+    Info_7:
+      Name: 1e.m01.a13.scene
+      Dependencies: {}
+    Info_8:
+      Name: 1e.m01.a14.scene
+      Dependencies: {}
+    Info_9:
+      Name: 1e.m01.a15.scene
+      Dependencies: {}
